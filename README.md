@@ -34,3 +34,6 @@ Mesmo assim, acredito que essa ajuda não passou de **10% do código total**.
 ## ✔️ Considerações Finais
 
 Foi um projeto bem divertido de fazer e espero que goste do resultado!
+
+As imagens de inspiração estão dentro da Assets dentro do src
+E coloquei prints também de como ficou em meu celular, caso por falta de responsividade ele quebre.
